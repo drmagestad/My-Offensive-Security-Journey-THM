@@ -1,4 +1,4 @@
-# Disclaimer
+# :📌Disclaimer
 
 Este repositorio contiene notas y writeups con fines educativos.  
 Los contenidos **no incluyen flags, contraseñas, hashes crackeados ni información sensible** de las máquinas.  
